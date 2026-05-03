@@ -1,0 +1,4 @@
+
+# Kotlin build artifacts
+*.jar
+out/
